@@ -40,11 +40,6 @@ I enjoy combining technology with creativity, building projects, experimenting w
 - Experimenting with electronics and hardware.
 - Improving my knowledge of programming and technology.
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safakbalci-byte&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safakbalci-byte&layout=compact&theme=tokyonight&hide_border=true)
 
 ### Let's Connect!
 
